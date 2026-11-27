@@ -28,3 +28,6 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project architecture
+- Keep the SkillBridge demo as a single TanStack home route with frontend-local state; the current prototype does not depend on accounts or persistent storage.
