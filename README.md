@@ -1,5 +1,5 @@
 # SkillBridge Proof
-live link = https://github.com/sacdhiyaaden-crypto/skillbridge-proof.git
+live link = https://id-preview--2c313f86-577b-4410-93c9-7217c11933f3.lovable.app/?__lovable_receipt=mat_3rhc3bhj439hwbmzcszt8f6vm6
 Build a mobile-first web application called "SkillBridge" that helps workers without formal transcripts validate their real-world competencies through low-barrier assessments.
 
 Design & Aesthetic:
